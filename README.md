@@ -5,7 +5,7 @@
 [NIPS/NeurIPS 2018: Best* of the First Two Poster Sessions](https://towardsdatascience.com/neurips-2018-reading-list-from-tue-poster-sessions-a-b-fce561e56be8?fbclid=IwAR0GiEyzd6Dh93_to3K3UCrUzRXFlkX1O8oaQrvMAf5lpPhbLf0fHC3n5tA) 
 
 # Interesting papers 
-## [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://eng.uber.com/coordconv/) \\ 
+## [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://eng.uber.com/coordconv/)  
 [pdf](https://arxiv.org/pdf/1807.03247.pdf)
 
 ## [How Does Batch Normalization Help Optimization?](http://papers.nips.cc/paper/7515-how-does-batch-normalization-help-optimization.pdf)
