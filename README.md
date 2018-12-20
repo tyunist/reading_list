@@ -14,3 +14,6 @@ Batch Normalization (BatchNorm) is a widely adopted technique that enables faste
 
 ## [On Neuronal Capacity](http://papers.nips.cc/paper/7999-on-neuronal-capacity.pdf)
 We define the capacity of a learning machine to be the logarithm of the number (or volume) of the functions it can implement. We review known results, and derive new results, estimating the capacity of several neuronal models: linear and polynomial threshold gates, linear and polynomial threshold gates with constrained weights (binary weights, positive weights), and ReLU neurons. We also derive capacity estimates and bounds for fully recurrent networks and layered feedforward networks.
+
+# Random Things
+## [Predictive Vision In A Nutshell](http://blog.piekniewski.info/2016/11/04/predictive-vision-in-a-nutshell/)
